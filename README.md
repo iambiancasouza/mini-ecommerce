@@ -1,6 +1,6 @@
 # 🛍️ Mini Ecommerce
 
-![Cover](.github/cover.png)
+<img src='cover.png'>
 
 <h1 align="center"><a href="https://mini-b-ecommerce.vercel.app/">See me here 😉</a></h1>
 
