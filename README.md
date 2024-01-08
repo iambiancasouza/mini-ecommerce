@@ -1,8 +1,49 @@
-# React + Vite
+# 🛍️ Mini Ecommerce
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Cover](.github/cover.png)
 
-Currently, two official plugins are available:
+<h1 align="center"><a href="https://mini-b-ecommerce.vercel.app/">See me here 😉</a></h1>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Technologies
+
+- [Vite](https://vitejs.dev/)
+- [Javascript](#)
+- [Eslint](https://eslint.org/)
+- [React](https://reactjs.org/)
+- [React Router](https://reactrouter.com/)
+- [React Toastify](https://fkhadra.github.io/react-toastify/introduction)
+
+## 🧑‍💻 How to run
+
+Clone the project and access its folder
+
+```bash
+git clone https://github.com/iambiancasouza/mini-ecommerce.git
+```
+
+```bash
+cd mini-ecommerce
+```
+
+Install dependencies and run the project with npm
+
+<details open>
+  <summary>npm</summary>
+
+```bash
+# install dependencies
+  npm i
+```
+
+```bash
+# run the project
+  npm run dev
+```
+
+</details>
+
+access the project at [localhost:5173](http://localhost:5173) in your browser.
+
+## 📝 License
+
+This project is under license MIT. See [LICENSE](LICENSE) for more details.
